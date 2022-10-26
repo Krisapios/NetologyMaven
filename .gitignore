@@ -2,5 +2,7 @@
 *.idea
 /out
 target
-
+/workspace.xml
+/vcs.xml
+/misc.xml
 
